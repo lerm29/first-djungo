@@ -1,1 +1,6 @@
-"# first-djungo" 
+# first-djungo project
+
+
+## Install
+
+## Run
